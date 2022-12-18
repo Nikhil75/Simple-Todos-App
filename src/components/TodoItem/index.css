@@ -1,0 +1,12 @@
+.todos-list-container {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.delete-button {
+  border-width: 0px;
+  background-color: red;
+  border-radius: 8px;
+  margin: 5px;
+  color: white;
+}

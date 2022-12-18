@@ -1,0 +1,25 @@
+* {
+  font-family: 'Roboto';
+}
+body {
+  margin: 0px;
+}
+.Todos-container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Todos-list-container {
+  min-height: 20vh;
+  background-color: white;
+  border-radius: 8px;
+  width: 50%;
+}
+.Todos-heading {
+  text-align: center;
+  color: #ffc2a0;
+}
